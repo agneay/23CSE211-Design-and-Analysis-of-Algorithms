@@ -7,4 +7,6 @@ A repo to save my coursework and home works assigned to me by my professor
 ![stars](https://img.shields.io/github/stars/agneay/23CSE211-Design-and-Analysis-of-Algorithms?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/agneay/23CSE211-Design-and-Analysis-of-Algorithms?style=for-the-badge)
 
+Acess my Lab work here: [Click here](https://docs.google.com/document/d/13uOlQ8ugyo2vWVfRuQqqXII7PdT3ML9y/edit?usp=sharing&ouid=104392192438282247567&rtpof=true&sd=true)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21JGEH6)
